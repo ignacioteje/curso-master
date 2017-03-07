@@ -1,2 +1,0 @@
-# curso
-curso nodejs angular
